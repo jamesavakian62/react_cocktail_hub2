@@ -6,8 +6,8 @@ ReactJS accesses an API at
 
 RESPONSIVE WEBSITE - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screen Shot 2022-05-31 at 9 04 26 PM](https://user-images.githubusercontent.com/92414210/171325315-c029f020-377e-43c6-b860-12c4933ad178.png)
 
+![Screen Shot 2022-06-01 at 7 57 09 PM](https://user-images.githubusercontent.com/92414210/171543481-4dfb6f27-70bf-4c6b-b7d8-3a131464ad27.png)
 
 
 ## Available Scripts
